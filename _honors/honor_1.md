@@ -9,4 +9,4 @@ inline: true
 - ACM KDD, Barcelona, Spain
 
 **The 30th HumanTech Paper Award, Samsung Electronics Co., Ltd. (2023)**
-- Gold Prize (KRW 20M) \- *Interpretable Prototype-based Graph Information Bottleneck*
+- Gold Prize **(KRW 20M)** \- *Interpretable Prototype-based Graph Information Bottleneck*

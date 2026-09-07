@@ -23,4 +23,4 @@ I am a postdoctoral researcher in the Materials Intelligence Lab at [LG AI Resea
 I received my Ph.D. from KAIST, where I was advised by Prof. [Chanyoung Park](https://dsail.kaist.ac.kr/) in the Department of Industrial & Systems Engineering.
 
 My research focuses on building AI systems for graph-structured data and applying GNNs to various applications. Specifically, I have worked on explainable AI for GNNs, multimodal learning with GNNs, physics-informed AI, and circuit graphs.
-From November 2025 to April 2026, I was a visiting researcher in the [Graph and Geometric Learning Lab](https://graph-and-geometric-learning.github.io/) at Yale University, hosted by Prof. Rex Ying.
+From November 2025 to April 2026, I was a visiting researcher in the [Graph and Geometric Learning Lab](https://graph-and-geometric-learning.github.io/) at Yale University, hosted by Prof. [Rex Ying](https://www.cs.yale.edu/homes/ying-rex/).

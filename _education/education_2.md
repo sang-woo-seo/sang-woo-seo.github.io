@@ -5,5 +5,5 @@ inline: true
 ---
 
 [Korea Advanced Institute of Science and Technology (KAIST)](https://kaist.ac.kr/en/), Daejeon, South Korea \
-M.S. in Electrical Engineering \
+M.S. in [Electrical Engineering](https://ee.kaist.ac.kr/en/) \
 Advisor: Prof. [Changick Kim](https://cilabs.kaist.ac.kr/)
