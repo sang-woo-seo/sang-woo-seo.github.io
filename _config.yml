@@ -246,7 +246,7 @@ display_tags: ['research', 'formatting', 'images', 'links', 'math', 'code'] # th
 scholar:
 
   last_name: Seo
-  first_name: [Sehyun, H.]
+  first_name: [Sangwoo, S.]
 
   style: apa
   locale: en
@@ -279,7 +279,7 @@ max_author_limit: 10
 # -----------------------------------------------------------------------------
 
 imagemagick:
-  enabled: true # enables responsive images for your site (recomended, see https://github.com/alshedivat/al-folio/issues/537)
+  enabled: false # enables responsive images for your site (recomended, see https://github.com/alshedivat/al-folio/issues/537)
   widths:
     - 480
     - 800
