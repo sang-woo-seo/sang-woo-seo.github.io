@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2026-01-01 09:00:00+0900
+date: 2026-08-09 09:00:00+0900
 inline: true
 ---
 
-📚 A paper about attention distillation for compositional reasoning in multimodal LLMs is accepted to **ICLR**.
+📚 A paper ELASTIC: Trajectory‑Based Synchronization of Event and Tracking Data in Soccer is accepted to **CIKM 2026**.
