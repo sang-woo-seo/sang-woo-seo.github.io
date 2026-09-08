@@ -1,6 +1,6 @@
-# Sehyun Hwnag's Homepage
+# Sangwoo Seo's Homepage
 
-This repository contains the source code for [my homepage](https://sehyun03.github.io).
+This repository contains the source code for [my homepage](https://sang-woo-seo.github.io).
 
 Reference
 
