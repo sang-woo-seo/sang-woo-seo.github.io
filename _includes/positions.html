@@ -1,0 +1,16 @@
+{% if site.positions.size > 0 %}
+<div class="positions">
+  <h2>Positions</h2>
+  <div class="table-responsive">
+    <table class="table table-sm table-borderless">
+      {% assign items = site.positions | sort: "order" %}
+      {% for item in items limit: site.positions_limit %}
+      <tr>
+        <th scope="row">{{ item.start_end }}</th>
+        <td>{{ item.content }}</td>
+      </tr>
+      {% endfor %}
+    </table>
+  </div>
+</div>
+{% endif %}

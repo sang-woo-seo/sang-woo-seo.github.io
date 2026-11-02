@@ -1,0 +1,16 @@
+{% if site.projects.size > 0 %}
+<div class="research-projects">
+  <h2>Projects</h2>
+  <div class="table-responsive">
+    <table class="table table-sm table-borderless">
+      {% assign items = site.projects | sort: "order" %}
+      {% for item in items limit: site.projects_limit %}
+      <tr>
+        <th scope="row">{{ item.start_end }}</th>
+        <td>{{ item.content }}</td>
+      </tr>
+      {% endfor %}
+    </table>
+  </div>
+</div>
+{% endif %}

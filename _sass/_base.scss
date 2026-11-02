@@ -457,6 +457,11 @@ footer.sticky-bottom {
 
 // Publications
 
+#seo2026bridging .periodical,
+#kim2025elastic .periodical {
+  font-size: calc(1rem - 1px);
+}
+
 .publications {
   margin-top: 2rem;
   h1 {
@@ -473,7 +478,7 @@ footer.sticky-bottom {
     }
   }
   h2.year {
-    color: var(--global-divider-color);
+    color: var(--global-text-color);
     border-top: 1px solid var(--global-divider-color);
     padding-top: 1rem;
     margin-top: 2rem;
@@ -609,8 +614,8 @@ footer.sticky-bottom {
   }
   }
 
-// experience
-.experience {
+// Career and research sections
+.experience, .positions, .research-projects {
   margin-top: 2rem;
   h1 {
   color: var(--global-theme-color);
@@ -626,6 +631,13 @@ footer.sticky-bottom {
   }
   }
   }
+
+.positions, .research-projects {
+  td p, td ul {
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+}
 
 // Honors
 .honors {

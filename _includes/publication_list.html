@@ -1,0 +1,6 @@
+<p>* indicates equal contribution.</p>
+{% assign publications_page = site.pages | where: "permalink", "/publications/" | first %}
+{% for year in publications_page.years %}
+  <h2 class="year">{{ year }}</h2>
+  {% bibliography -f papers -q @*[year={{year}}]* %}
+{% endfor %}

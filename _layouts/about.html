@@ -50,9 +50,14 @@ layout: default
           {%- include education.html %}
           {%- endif %}
           
-          {% if page.experience -%}
-          <!-- Experience -->
-          {%- include experience.html %}
+          {% if page.positions -%}
+            <!-- Positions -->
+            {%- include positions.html %}
+          {%- endif %}
+
+          {% if page.projects -%}
+            <!-- Projects -->
+            {%- include research_projects.html %}
           {%- endif %}
           
           {% if page.selected_papers -%}

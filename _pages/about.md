@@ -12,7 +12,8 @@ profile:
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 education: true # includes a list of education items
-experience: true # includes a list of experience items
+positions: true
+projects: true
 honors: true # includes a list of experience items
 services: true # includes a list of services items
 social: true  # includes social icons at the bottom of the page

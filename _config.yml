@@ -141,11 +141,11 @@ collections:
       layout: post
     output: true
     permalink: /education/:path/
-  experience:
-    defaults:
-      layout: post
+
+  positions:
     output: true
-    permalink: /experience/:path/
+    permalink: /positions/:path/
+
   honors:
     defaults:
       layout: post
@@ -160,7 +160,8 @@ collections:
 news_scrollable: true # adds a vertical scroll bar if there are more than 3 news items
 news_limit: 4 # leave blank to include all the news in the `_news` folder
 education_limit: 10
-experience_limit: 10
+positions_limit: 10
+projects_limit: 10
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
